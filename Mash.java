@@ -1,6 +1,6 @@
 
 /**
- * Tells user's future!
+ * tells us the fuure! or something (future!?)
  *
  * Annie Radillo
  * @version 9/13
